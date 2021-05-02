@@ -176,33 +176,6 @@
 				<false/>
 			</dict>
 		</array>
-		<key>Patch</key>
-		<array>
-			<dict>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>Comment</key>
-				<string>macOS to hacOS</string>
-				<key>Count</key>
-				<integer>1</integer>
-				<key>Enabled</key>
-				<false/>
-				<key>Find</key>
-				<data>bWFjT1M=</data>
-				<key>Identifier</key>
-				<string>Apple</string>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>Replace</key>
-				<data>aGFjT1M=</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-			</dict>
-		</array>
 		<key>Quirks</key>
 		<dict>
 			<key>AllowRelocationBlock</key>
@@ -258,6 +231,25 @@
 			<dict>
 				<key>AAPL,ig-platform-id</key>
 				<data>BwCbPg==</data>
+				<key>framebuffer-patch-enable</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-stolenmem</key>
+				<data>AAAwAQ==</data>
+				<key>framebuffer-con0-enable</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-con1-enable</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-con2-enable</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-con0-alldata</key>
+				<data>AQAJAAAIAADHAwAA</data>
+				<key>framebuffer-con1-alldata</key>
+				<data>AgIKAAAEAADHAwAA</data>
+				<key>framebuffer-con2-alldata</key>
+				<data>AwAIAAAEAADHAwAA</data>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x1C,0x1)/Pci(0x0,0x0)</key>
+			<dict>
 				<key>device-id</key>
 				<data>xZsAAA==</data>
 			</dict>
@@ -721,7 +713,7 @@
 			<key>AppleCpuPmCfgLock</key>
 			<false/>
 			<key>AppleXcpmCfgLock</key>
-			<true/>
+			<false/>
 			<key>AppleXcpmExtraMsrs</key>
 			<false/>
 			<key>AppleXcpmForceBoost</key>
