@@ -233,8 +233,6 @@
 				<data>BwCbPg==</data>
 				<key>framebuffer-patch-enable</key>
 				<data>AQAAAA==</data>
-				<key>framebuffer-stolenmem</key>
-				<data>AAAwAQ==</data>
 				<key>framebuffer-con0-enable</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-con1-enable</key>
@@ -242,9 +240,9 @@
 				<key>framebuffer-con2-enable</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-con0-alldata</key>
-				<data>AQAJAAAIAADHAwAA</data>
+				<data>AQAJAAAEAADHAwAA</data>
 				<key>framebuffer-con1-alldata</key>
-				<data>AgIKAAAEAADHAwAA</data>
+				<data>AgIKAAAIAADHAwAA</data>
 				<key>framebuffer-con2-alldata</key>
 				<data>AwAIAAAEAADHAwAA</data>
 			</dict>
