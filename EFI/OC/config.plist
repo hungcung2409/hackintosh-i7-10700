@@ -231,25 +231,8 @@
 			<dict>
 				<key>AAPL,ig-platform-id</key>
 				<data>BwCbPg==</data>
-				<key>framebuffer-patch-enable</key>
-				<data>AQAAAA==</data>
-				<key>framebuffer-con0-enable</key>
-				<data>AQAAAA==</data>
-				<key>framebuffer-con1-enable</key>
-				<data>AQAAAA==</data>
-				<key>framebuffer-con2-enable</key>
-				<data>AQAAAA==</data>
-				<key>framebuffer-con0-alldata</key>
-				<data>AQAJAAAEAADHAwAA</data>
-				<key>framebuffer-con1-alldata</key>
-				<data>AgIKAAAIAADHAwAA</data>
-				<key>framebuffer-con2-alldata</key>
-				<data>AwAIAAAEAADHAwAA</data>
-			</dict>
-			<key>PciRoot(0x0)/Pci(0x1C,0x1)/Pci(0x0,0x0)</key>
-			<dict>
 				<key>device-id</key>
-				<data>xZsAAA==</data>
+				<data>mz4AAA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
