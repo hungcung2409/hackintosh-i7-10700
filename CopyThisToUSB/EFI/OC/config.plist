@@ -244,43 +244,7 @@
 		<array>
 			<dict>
 				<key>Comment</key>
-				<string></string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-				<key>Enabled</key>
-				<true/>
-				<key>MinKernel</key>
-				<string></string>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/Lilu</string>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>BundlePath</key>
-				<string>Lilu.kext</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string></string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-				<key>Enabled</key>
-				<true/>
-				<key>MinKernel</key>
-				<string></string>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/VirtualSMC</string>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>BundlePath</key>
-				<string>VirtualSMC.kext</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string></string>
+				<string>AirportItlwm.kext</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>PlistPath</key>
@@ -298,25 +262,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string></string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-				<key>Enabled</key>
-				<true/>
-				<key>MinKernel</key>
-				<string></string>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/AppleALC</string>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>BundlePath</key>
-				<string>AppleALC.kext</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string></string>
+				<string>IntelBluetoothFirmware.kext</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>PlistPath</key>
@@ -334,7 +280,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string></string>
+				<string>IntelBluetoothInjector.kext</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>PlistPath</key>
@@ -352,7 +298,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string></string>
+				<string>IntelMausi.kext</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>PlistPath</key>
@@ -370,7 +316,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string></string>
+				<string>IntelSnowMausi.kext</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>PlistPath</key>
@@ -388,7 +334,25 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
+				<string>Lilu.kext</string>
+				<key>MaxKernel</key>
 				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+				<key>Enabled</key>
+				<true/>
+				<key>MinKernel</key>
+				<string></string>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/Lilu</string>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+				<string>Lilu.kext</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>NVMeFix.kext</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>PlistPath</key>
@@ -406,43 +370,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string></string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-				<key>Enabled</key>
-				<true/>
-				<key>MinKernel</key>
-				<string></string>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/SMCProcessor</string>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>BundlePath</key>
-				<string>SMCProcessor.kext</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string></string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-				<key>Enabled</key>
-				<true/>
-				<key>MinKernel</key>
-				<string></string>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/SMCSuperIO</string>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>BundlePath</key>
-				<string>SMCSuperIO.kext</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string></string>
+				<string>USBInjectAll.kext</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>PlistPath</key>
@@ -460,7 +388,25 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
+				<string>VirtualSMC.kext</string>
+				<key>MaxKernel</key>
 				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+				<key>Enabled</key>
+				<true/>
+				<key>MinKernel</key>
+				<string></string>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/VirtualSMC</string>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+				<string>VirtualSMC.kext</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>WhateverGreen.kext</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>PlistPath</key>
@@ -475,6 +421,60 @@
 				<string>Any</string>
 				<key>BundlePath</key>
 				<string>WhateverGreen.kext</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>AppleALC.kext</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+				<key>Enabled</key>
+				<true/>
+				<key>MinKernel</key>
+				<string></string>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/AppleALC</string>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+				<string>AppleALC.kext</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SMCProcessor.kext</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+				<key>Enabled</key>
+				<true/>
+				<key>MinKernel</key>
+				<string></string>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/SMCProcessor</string>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+				<string>SMCProcessor.kext</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SMCSuperIO.kext</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+				<key>Enabled</key>
+				<true/>
+				<key>MinKernel</key>
+				<string></string>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/SMCSuperIO</string>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+				<string>SMCSuperIO.kext</string>
 			</dict>
 		</array>
 		<key>Block</key>
@@ -939,7 +939,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-cdfon -igfxmpc keepsyms=1 debug=0x100 alcid=1</string>
+				<string>-v -cdfon -igfxmpc keepsyms=1 debug=0x100 alcid=1</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
